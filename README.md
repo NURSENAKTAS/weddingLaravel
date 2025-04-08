@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://github.com/Froxerr/weddingLaravel/blob/main/public/assets/img/logo.png" alt="Wedding Organization System" width="200"></a>
+  <a href=""><img src="https://github.com/NURSENAKTAS/weddingLaravel/blob/main/public/assets/img/logo.png" alt="Wedding Organization System" width="200"></a>
   <br>
   Düğün Organizasyon Sistemi
   <br>
@@ -29,11 +29,6 @@
   <a href="#rol-tabanlı-özellikler">Rol Tabanlı Özellikler</a> •
   <a href="#nasıl-kullanılır">Nasıl Kullanılır</a> 
 </p>
-
-<div align="center">
-  <img src="https://github.com/yourusername/wedding_organization/blob/main/public/assets/img/animation.gif" alt="Düğün Organizasyon Sistemi">
-</div>
-
 
 
 <h2 id="temel-özellikler">Temel Özellikler</h2>
@@ -73,7 +68,7 @@ Bu Laravel uygulamasını klonlamak ve çalıştırmak için bilgisayarınızda 
 
 ```bash
 # Bu depoyu klonlayın
-$ git clone https://github.com/Froxerr/weddingLaravel.git
+$ git clone https://github.com/NURSENAKTAS/weddingLaravel.git
 
 # Proje dizinine gidin
 $ cd weddingLaravel
